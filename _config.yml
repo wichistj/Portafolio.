@@ -1,3 +1,10 @@
 title: Luis Alfonso López
-description: Portafolio como QA Engineer Junior
-theme: jekyll-theme-cayman
+description: QA Engineer Junior | linkedin.com/in/luis-alfonso-lopez-gonzalez-71758453
+theme: jekyll-theme-minimal
+logo: /assets/img/avatar.png
+show_downloads: false
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
