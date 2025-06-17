@@ -34,4 +34,4 @@ Soy **QA Engineer Junior** con conocimientos en automatización de pruebas (Sele
 
 - GitHub: [@wichistj](https://github.com/wichistj)
 - LinkedIn: [linkedin.com/in/luis-alfonso-lopez-gonzalez-71758453](https://www.linkedin.com/in/luis-alfonso-lopez-gonzalez-71758453/)
-- Email: tu.email@mail.com
+- Email: luisalfonso.psic@gmail.com
